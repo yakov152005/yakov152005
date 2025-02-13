@@ -50,8 +50,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakov152005&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
-
-<h3 align="center">📈 Contribution Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakov152005&theme=react-dark" alt="GitHub Contribution Graph" />
-</p>
