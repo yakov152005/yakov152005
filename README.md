@@ -26,4 +26,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yakov152005&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yakov152005&theme=react)
+
